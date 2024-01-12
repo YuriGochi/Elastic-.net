@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kCv0L/ctxTAkVcUiKSLVqEvr++eX5lCLl6yaXoVwnpA=",
+  "Source": "ElasticSearchLogs",
+  "BasePath": "_content/ElasticSearchLogs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
